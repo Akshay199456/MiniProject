@@ -1,0 +1,42 @@
+#Login-form {
+  height: 100%;
+}
+
+.link-view{
+	background:none!important;
+     color:inherit;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     border-bottom:1px solid #444; 
+     cursor: pointer;
+}
+
+/*.login-form*/
+.login-form{
+	/* The image used */
+  background-image: url("/movie.jpeg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.opacity{
+	opacity: 0.9;
+}
+
+.webNameLogin{
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size: 50px;
+  display: block;
+  color: white;
+  position: relative;
+  text-align: center;
+  top: 125px;
+}

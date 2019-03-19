@@ -1,0 +1,11 @@
+.bgUser{
+	/* The image used */
+ background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
